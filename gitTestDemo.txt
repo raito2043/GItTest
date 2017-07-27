@@ -1,0 +1,13 @@
+
+public class git{
+  
+  public void test(){
+
+
+ 
+
+	System.out.print("ºÏ²¢")
+
+ }
+  
+}
